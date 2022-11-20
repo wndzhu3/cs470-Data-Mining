@@ -20,4 +20,5 @@ I used a 4-fold cross validation method to evaluate my model. I got the followin
 - recall or sensitivity: 0.731
 - F score: 0.733
 - specificity: 0.698
+
 Overall, they were all somewhat similar in value, hovering around the 70-75% range, implying that my algorithm doesn't seem to have a large "bias" in the number of false positives it identifies versus false negatives, and vice versa. However, because the specificity value was smallest, it's possible that my model has a tendency to identify false positives. In general, I would prefer my metrics to be higher, since predicting heart disease is an important task with large consequences in the real world. Nonetheless, this assignment helped me understand the importance of building good classification models, as well as the importance of testing these models, because evaluating the quality of my induction tree really helped me understand just how effective (or not effective) it was, and if I were to continue improving it in the future, these numbers would be very useful in helping guide the adjustments I could make to the algorithm.
