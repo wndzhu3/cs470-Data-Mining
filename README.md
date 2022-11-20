@@ -1,2 +1,3 @@
 # cs470-Data-Mining
-Implemented the apriori algorithm for frequent itemsets mining and the decision tree algorithm
+
+Projects I completed for this course included implementing the apriori algorithm for frequent itemsets mining and the decision tree algorithm. More information can be found in the respective subfolders.
