@@ -2,7 +2,7 @@
 
 ## Algorithm and Usage
 
-To create the decision tree and create the output file containing results from the test data, run the generateDecisionTree method in the main method, which returns a decision tree node (DTNode). For example, in the main method you should run DTNode root = generateDecisionTree(parameter 1, parameter 2, parameter 3, parameter 4).
+To create the decision tree and create the output file containing results from the test data, run the `generateDecisionTree` method in the main method, which returns a decision tree node (`DTNode`). For example, in the main method you should run `DTNode root = generateDecisionTree(parameter 1, parameter 2, parameter 3, parameter 4)`.
 
 The input parameters are (1) path to the dataset CSV file, (2) path to the list of training data IDs, (3) path to the list of test data IDs, and (4) path to the output file.
 
